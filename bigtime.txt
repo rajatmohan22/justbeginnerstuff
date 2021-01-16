@@ -1,15 +1,11 @@
 print("hello world")
 comitted 
 nothing im just figuring it out 
+
+
+im just figuring out how to branch and stuff 
 see that thing i typed then does not appear in the main project shii 
 it appears as a sub branch for me exclusively 
-
-
-
-
-
-
-
 
 
 
